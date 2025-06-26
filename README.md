@@ -1,6 +1,7 @@
 # GSAP Website
 
 A modern, high-performance landing page project built with React, GSAP (GreenSock Animation Platform), Vite, and TailwindCSS. This repository demonstrates advanced web animations and responsive design using the latest frontend technologies.
+Check out the Live Demo Here: https://gsapprojectdhrumil.netlify.app 
 
 ## Features
 
